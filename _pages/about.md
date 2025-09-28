@@ -13,7 +13,7 @@ I am very fortunate to be advised by [Prof. Qi Liu](http://staff.ustc.edu.cn/~qi
 
 Education
 ======
-- 2019.09 ~ 2023.06 B.Sc. in Data Science and Big Data Technology, School of the Gifted Young, University of Science and Technology of China (USTC), China.
+- 2019.09 ~ 2023.06 B.Sc. in Data Science and Big Data Technology, **School of the Gifted Young**, University of Science and Technology of China (USTC), China.
 - 2023.09 ~ Present Ph.D. Candidate in Intelligent Science and Technology, School of Artificial Intelligence and Data Science, University of Science and Technology of China (USTC), China.
 
 Publications
