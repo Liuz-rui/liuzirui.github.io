@@ -216,20 +216,6 @@ kramdown:
   enable_coderay: false
 
 
-# These settings control the types of collections used by the template
-
-# These settings control how pages and collections are included in the site
-defaults:
-  # _posts
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-
-
 # Sass/SCSS
 sass:
   sass_dir: _sass
