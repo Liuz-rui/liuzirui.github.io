@@ -18,6 +18,7 @@ Education
 
 Publications
 ======
+
 2025
 ------
 **Zirui Liu**, Jiatong Li, Yan Zhuang, Qi Liu*, Shuanghong Shen, Jie Ouyang, Mingyue Cheng, Shijin Wang, am-ELO: A Stable Framework for Arena-based LLM Evaluation, The Forty-second International Conference on Machine Learning (ICML'2025), Vancouver, Canada, July 13-19. Accepted. (**Spotlight**)
